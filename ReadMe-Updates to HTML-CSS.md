@@ -43,6 +43,6 @@
    - Changed `.footer` to `footer` for consistency with HTML changes.
 
 updated screenshot:
-![](images/updated website screenshot.png)
+![screenshot with changes made to website](assets/images/natale565.github.io_chall-1_.png)
 
 These changes aim to improve the structure, semantics, and maintainability of the HTML and CSS files, ensuring better accessibility and readability of the website code.
