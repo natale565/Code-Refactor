@@ -42,4 +42,7 @@
 5. **Footer Styles:**
    - Changed `.footer` to `footer` for consistency with HTML changes.
 
+updated screenshot:
+![](images/updated website screenshot.png)
+
 These changes aim to improve the structure, semantics, and maintainability of the HTML and CSS files, ensuring better accessibility and readability of the website code.
